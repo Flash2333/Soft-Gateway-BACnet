@@ -1,0 +1,572 @@
+{
+  "sun21971902267_A_10F_AHU4_VAV3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971902281_A_10F_AHU6_VAV2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971902286_A_10F_AHU6_VAV7": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918001_A_AHU_03F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918002_A_AHU_03F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918003_A_AHU_03F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918004_A_AHU_03F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918005_A_AHU_03F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918006_A_AHU_03F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918007_A_AHU_05F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918008_A_AHU_05F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918009_A_AHU_05F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918010_A_AHU_05F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918011_A_AHU_05F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918012_A_AHU_05F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918019_A_AHU_07F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918020_A_AHU_07F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918021_A_AHU_07F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918022_A_AHU_07F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918023_A_AHU_07F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918024_A_AHU_07F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918025_A_AHU_08F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918026_A_AHU_08F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918027_A_AHU_08F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918028_A_AHU_08F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918029_A_AHU_08F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918030_A_AHU_08F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918031_A_AHU_09F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918032_A_AHU_09F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918033_A_AHU_09F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918034_A_AHU_09F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918035_A_AHU_09F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918036_A_AHU_09F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918037_A_AHU_10F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918038_A_AHU_10F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918039_A_AHU_10F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918040_A_AHU_10F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918041_A_AHU_10F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918042_A_AHU_10F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918043_A_AHU_11F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918044_A_AHU_11F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918045_A_AHU_11F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918046_A_AHU_11F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918047_A_AHU_11F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918049_B_AHU_02F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918050_B_AHU_02F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918051_B_AHU_02F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918052_B_AHU_02F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918053_B_AHU_03F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918054_B_AHU_03F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918055_B_AHU_03F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918056_B_AHU_03F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918057_B_AHU_03F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918058_B_AHU_03F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918059_B_AHU_05F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918060_B_AHU_05F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918061_B_AHU_05F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918062_B_AHU_05F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918063_B_AHU_05F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918064_B_AHU_05F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918065_B_AHU_06F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918066_B_AHU_06F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918067_B_AHU_06F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918068_B_AHU_06F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918069_B_AHU_06F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918070_B_AHU_06F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918071_B_AHU_07F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918072_B_AHU_07F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918073_B_AHU_07F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918074_B_AHU_07F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918075_B_AHU_07F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918076_B_AHU_07F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918077_B_AHU_08F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918078_B_AHU_08F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918079_B_AHU_08F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918080_B_AHU_08F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918081_B_AHU_08F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918082_B_AHU_08F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918083_B_AHU_09F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918084_B_AHU_09F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918085_B_AHU_09F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918086_B_AHU_09F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918087_B_AHU_09F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918088_B_AHU_09F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918089_B_AHU_10F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918090_B_AHU_10F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918091_B_AHU_10F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918092_B_AHU_10F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918093_B_AHU_10F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918094_B_AHU_10F_6": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918095_B_AHU_11F_1": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918096_B_AHU_11F_2": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918097_B_AHU_11F_3": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918098_B_AHU_11F_4": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  },
+  "sun21971918099_B_AHU_11F_5": {
+    "connectorId": "9fc7d12-f5cf-4e558-899x-e193fc90-241",
+    "connectorName": "config_build_AB_AHU",
+    "deviceType": "default",
+    "renaming": null
+  }
+}

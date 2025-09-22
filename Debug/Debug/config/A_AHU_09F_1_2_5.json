@@ -1,0 +1,42 @@
+{
+  "id": "9fc927d2-f5cf-4e58-899x-e193fc903013",
+  "application": {
+    "objectName": "seep_gateway",
+    "address": "192.168.0.241",
+    "objectIdentifier": 599,
+    "maxApduLengthAccepted": 1476,
+    "segmentationSupported": "segmentedBoth",
+    "vendorIdentifier": 15,
+    "deviceDiscoveryTimeoutInSec": 5
+  },
+  "devices": [
+    {
+      "deviceInfo": {
+        "deviceNameExpressionSource": "expression",
+        "deviceNameExpression": "sun21971918034_A_AHU_09F_1",
+        "deviceProfileExpressionSource": "constant",
+        "deviceProfileExpression": "default"
+      },
+      "address": "192.168.0.111",
+      "pollPeriod": 30000,
+      "attributes": [],
+      "timeseries": [
+        {
+          "key": "RunningStatus",
+          "objectType": "binaryInput",
+          "objectId": "9",
+          "propertyId": "presentValue"
+        },
+        {
+          "key": "RunningFrequency",
+          "objectType": "analogInput",
+          "objectId": "2",
+          "propertyId": "presentValue"
+        }
+      ],
+      "attributeUpdates": [],
+      "serverSideRpc": [
+      ]
+    }
+  ]
+}

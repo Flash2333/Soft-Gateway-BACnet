@@ -1,0 +1,76 @@
+{
+  "cloudServer": {
+    "host": "mq.mqtt.szifm.com",
+    "port": 8885,
+    "qos": 0,
+    "security": {
+      "type": "usernamePassword",
+      "clientId": "3f581fd0d6bc4ea292c4ec5b63716183",
+      "username": "219719",
+      "password": "Config@2025m01d06"
+    },
+    "remoteShell": false,
+    "remoteConfiguration": false,
+    "latencyDebugMode": false,
+    "statistics": {
+      "enable": false,
+      "statsSendPeriodInSeconds": 60,
+      "customStatsSendPeriodInSeconds": 3600
+    },
+    "deviceFiltering": {
+      "enable": false,
+      "filterFile": "list.json"
+    },
+    "maxPayloadSizeBytes": 8196,
+    "minPackSendDelayMS": 50,
+    "minPackSizeToSend": 500,
+    "checkConnectorsConfigurationInSeconds": 600,
+    "handleDeviceRenaming": false,
+    "reportStrategy": {
+      "type": "ON_RECEIVED"
+    },
+    "checkingDeviceActivity": {
+      "checkDeviceInactivity": false,
+      "inactivityTimeoutSeconds": 300,
+      "inactivityCheckPeriodSeconds": 10
+    },
+    "rateLimits": "DEFAULT_TELEMETRY_RATE_LIMIT",
+    "dpRateLimits": "DEFAULT_TELEMETRY_DP_RATE_LIMIT",
+    "messagesRateLimits": "DEFAULT_MESSAGES_RATE_LIMIT",
+    "deviceMessagesRateLimits": "DEFAULT_MESSAGES_RATE_LIMIT",
+    "deviceRateLimits": "DEFAULT_TELEMETRY_RATE_LIMIT",
+    "deviceDpRateLimits": "DEFAULT_TELEMETRY_DP_RATE_LIMIT"
+  },
+  "storage": {
+    "type": "memory",
+    "read_records_count": 100,
+    "max_records_count": 100000,
+    "data_folder_path": "./data/",
+    "max_file_count": 10,
+    "max_read_records_count": 10,
+    "max_records_per_file": 10000,
+    "data_file_path": "./data/data.db",
+    "messages_ttl_check_in_hours": 1,
+    "messages_ttl_in_days": 7
+  },
+  "grpc": {
+    "enabled": false,
+    "serverPort": 9595,
+    "keepAliveTimeMs": 10001,
+    "keepAliveTimeoutMs": 5000,
+    "keepAlivePermitWithoutCalls": true,
+    "maxPingsWithoutData": 0,
+    "minTimeBetweenPingsMs": 10000,
+    "minPingIntervalWithoutDataMs": 5000
+  },
+  "connectorsTemp": [
+
+  ],
+  "connectors": [
+    {
+        "type": "bacnet",
+        "name": "config_build_AB_AHU",
+        "configuration": "config_build_AB_AHU.json"
+    }
+  ]
+}

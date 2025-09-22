@@ -1,0 +1,51 @@
+{
+  "application": {
+    "objectName": "seep_gateway",
+    "address": "0.0.0.0",
+    "objectIdentifier": 599,
+    "maxApduLengthAccepted": 1476,
+    "segmentationSupported": "segmentedBoth",
+    "vendorIdentifier": 15,
+    "deviceDiscoveryTimeoutInSec": 5
+  },
+  "devices": [
+    {
+      "deviceInfo": {
+        "deviceNameExpressionSource": "expression",
+        "deviceNameExpression": "BACnet Device ${objectName}",
+        "deviceProfileExpressionSource": "constant",
+        "deviceProfileExpression": "default"
+      },
+      "address": "192.168.6.88",
+      "__altResponsesAddresses": ["192.168.6.88:47808"],
+      "pollPeriod": 10000,
+      "attributes": [],
+      "timeseries": [
+        {
+          "key": "zero",
+          "objectType": "analogInput",
+          "objectId": "0",
+          "propertyId": "presentValue"
+        },
+        {
+          "key": "humidity",
+          "objectType": "analogOutput",
+          "objectId": "19",
+          "propertyId": "presentValue"
+        }
+      ],
+      "attributeUpdates": [],
+      "serverSideRpc": [
+         {
+          "method": "set_state",
+          "requestType": "writeProperty",
+          "requestTimeout": 10000,
+          "objectType": "analogOutput",
+          "objectId": "19",
+          "propertyId": "presentValue"
+        }
+      ]
+    }
+  ],
+  "id": "9fc927d2-f5cf-4e58-899x-e193fc903013"
+}

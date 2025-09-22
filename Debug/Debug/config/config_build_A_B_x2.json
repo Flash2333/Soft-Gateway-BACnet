@@ -1,0 +1,15 @@
+{
+    "id": "9fc7d12-f5cf-4e558-899x-e193fc903013",
+    "application": {
+        "objectName": "bacnet_device_list",
+        "address": "192.168.0.241",
+        "objectIdentifier": 599,
+        "maxApduLengthAccepted": 1476,
+        "segmentationSupported": "segmentedBoth",
+        "vendorIdentifier": 15,
+        "deviceDiscoveryTimeoutInSec": 5
+    },
+    "devices": [
+  
+    ]
+}

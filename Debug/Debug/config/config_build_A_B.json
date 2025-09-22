@@ -1,0 +1,150 @@
+{
+    "id": "9fc7d12-f5cf-4e558-899x-e193fc903013",
+    "application": {
+        "objectName": "bacnet_device_list",
+        "address": "192.168.0.241/24",
+        "objectIdentifier": 599,
+        "maxApduLengthAccepted": 1476,
+        "segmentationSupported": "segmentedBoth",
+        "vendorIdentifier": 15,
+        "deviceDiscoveryTimeoutInSec": 5
+    },
+    "devices": [
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971918001_A_AHU_03F_1"
+            },
+            "address": "192.168.0.101",
+            "pollPeriod": 30000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "IsFaultOccurred",
+                    "objectType": "binaryInput",
+                    "objectId": 5,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "FilterFaultCode",
+                    "objectType": "binaryInput",
+                    "objectId": 6,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "ElectrostaticFilterFaultCode",
+                    "objectType": "binaryInput",
+                    "objectId": 7,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "IsManualOrAuto",
+                    "objectType": "binaryInput",
+                    "objectId": 8,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "RunningStatus",
+                    "objectType": "binaryInput",
+                    "objectId": 9,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "RunningFrequency",
+                    "objectType": "analogInput",
+                    "objectId": 2,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "FreshAirValvePercentage",
+                    "objectType": "analogInput",
+                    "objectId": 3,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "ReturnAirValvePercentage",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "AirTemperatureOut",
+                    "objectType": "analogInput",
+                    "objectId": 5,
+                    "propertyId": "presentValue"
+                },
+                {
+                    "key": "ChilledWaterValvePercentage",
+                    "objectType": "analogInput",
+                    "objectId": 7,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": [
+                {
+                    "method": "RunOrStop",
+                    "requestType": "writeProperty",
+                    "requestTimeout": 10000,
+                    "objectType": "binaryOutput",
+                    "objectId": 3,
+                    "propertyId": "presentValue",
+                    "priority": 8
+                },
+                {
+                    "method": "SetFrequency",
+                    "requestType": "writeProperty",
+                    "requestTimeout": 10000,
+                    "objectType": "analogOutput",
+                    "objectId": 1,
+                    "propertyId": "presentValue",
+                    "priority": 8
+                },
+                {
+                    "method": "SetFreshAirValvePercentage",
+                    "requestType": "writeProperty",
+                    "requestTimeout": 10000,
+                    "objectType": "analogOutput",
+                    "objectId": 2,
+                    "propertyId": "presentValue",
+                    "priority": 8
+                },
+                {
+                    "method": "SetReturnAirValvePercentage",
+                    "requestType": "writeProperty",
+                    "requestTimeout": 10000,
+                    "objectType": "analogOutput",
+                    "objectId": 3,
+                    "propertyId": "presentValue",
+                    "priority": 8
+                },
+                {
+                    "method": "SetHeatedWaterValvePercentage",
+                    "requestType": "writeProperty",
+                    "requestTimeout": 10000,
+                    "objectType": "analogOutput",
+                    "objectId": 4,
+                    "propertyId": "presentValue",
+                    "priority": 8
+                }
+            ]
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902644_B_11F_AHU5_VAV7"
+            },
+            "address": "249:19",
+            "pollPeriod": 30000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        }
+    ]
+}

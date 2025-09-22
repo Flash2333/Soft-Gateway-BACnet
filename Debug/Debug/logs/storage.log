@@ -1,0 +1,21 @@
+2025-01-24 12:32:09 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 14:05:24 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 14:42:43 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 15:45:21 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 15:50:12 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 15:56:22 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100
+2025-01-24 16:18:11 - |DEBUG| - [memory_event_storage.py] - memory_event_storage - __init__ - 29 - Memory storage created with following configuration: 
+Max size: 100000
+ Read records per time: 100

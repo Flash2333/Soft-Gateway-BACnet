@@ -1,0 +1,58 @@
+{
+  "application": {
+    "objectName": "seep_gateway",
+    "address": "0.0.0.0",
+    "objectIdentifier": 599,
+    "maxApduLengthAccepted": 1476,
+    "segmentationSupported": "segmentedBoth",
+    "vendorIdentifier": 15,
+    "deviceDiscoveryTimeoutInSec": 5
+  },
+  "devices": [
+    {
+      "deviceInfo": {
+        "deviceNameExpressionSource": "expression",
+        "deviceNameExpression": "BACnet Device 002",
+        "deviceProfileExpressionSource": "constant",
+        "deviceProfileExpression": "default"
+      },
+      "address": "192.168.200.221:55606",
+      "pollPeriod": 30000,
+      "attributes": [],
+      "timeseries": [
+        {
+          "key": "IndoorTemp2",
+          "objectType": "analogInput",
+          "objectId": "0",
+          "propertyId": "presentValue"
+        },
+        {
+          "key": "WaterTemp2",
+          "objectType": "analogInput",
+          "objectId": "1",
+          "propertyId": "presentValue",
+          "conversionExpression": "round(value,3)"
+        },
+        {
+          "key": "SetTemp",
+          "objectType": "analogValue",
+          "objectId": "1",
+          "propertyId": "presentValue",
+          "conversionExpression": ""
+        }
+      ],
+      "attributeUpdates": [],
+      "serverSideRpc": [
+        {
+          "method": "down_set_temp",
+          "requestType": "writeProperty",
+          "requestTimeout": 10000,
+          "objectType": "analogValue",
+          "objectId": "1",
+          "propertyId": "presentValue"
+        }
+      ]
+    }
+  ],
+  "id": "2xt927d3-f5cf-4e39-899a-e148fx963015"
+}

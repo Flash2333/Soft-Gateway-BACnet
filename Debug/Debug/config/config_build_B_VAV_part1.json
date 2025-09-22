@@ -1,0 +1,1943 @@
+{
+    "id": "9fc7d12-f5cf-4e558-899x-e193fc90-231",
+    "logLevel": "DEBUG",
+    "application": {
+        "objectName": "bacnet_device_list_231",
+        "address": "192.168.0.231/24",
+        "objectIdentifier": 231,
+        "maxApduLengthAccepted": 1476,
+        "segmentationSupported": "segmentedBoth",
+        "vendorIdentifier": 15,
+        "deviceDiscoveryTimeoutInSec": 5,
+        "devicesDiscoverPeriodSeconds": 300,
+        "disableDeviceDiscovery": true
+    },
+    "devices": [
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902324_B_02F_AHU1_VAV1"
+            },
+            "address": "201:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902325_B_02F_AHU1_VAV2"
+            },
+            "address": "201:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902326_B_02F_AHU1_VAV3"
+            },
+            "address": "201:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902327_B_02F_AHU1_VAV4"
+            },
+            "address": "201:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902328_B_02F_AHU1_VAV5"
+            },
+            "address": "201:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902329_B_02F_AHU1_VAV6"
+            },
+            "address": "201:6",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902330_B_02F_AHU1_VAV7"
+            },
+            "address": "201:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902331_B_02F_AHU1_VAV8"
+            },
+            "address": "201:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902332_B_02F_AHU1_VAV9"
+            },
+            "address": "201:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902333_B_02F_AHU2_VAV1"
+            },
+            "address": "204:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902334_B_02F_AHU2_VAV2"
+            },
+            "address": "204:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902335_B_02F_AHU2_VAV3"
+            },
+            "address": "204:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902336_B_02F_AHU2_VAV4"
+            },
+            "address": "204:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902337_B_02F_AHU2_VAV5"
+            },
+            "address": "204:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902338_B_02F_AHU2_VAV6"
+            },
+            "address": "204:6",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902339_B_02F_AHU2_VAV7"
+            },
+            "address": "204:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902340_B_02F_AHU2_VAV8"
+            },
+            "address": "204:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902341_B_02F_AHU2_VAV9"
+            },
+            "address": "204:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902342_B_02F_AHU3_VAV1"
+            },
+            "address": "204:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902343_B_02F_AHU3_VAV2"
+            },
+            "address": "204:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902344_B_02F_AHU3_VAV3"
+            },
+            "address": "204:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902345_B_02F_AHU3_VAV4"
+            },
+            "address": "204:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902346_B_02F_AHU3_VAV5"
+            },
+            "address": "204:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902347_B_02F_AHU4_VAV1"
+            },
+            "address": "201:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902348_B_02F_AHU4_VAV2"
+            },
+            "address": "201:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902349_B_02F_AHU4_VAV3"
+            },
+            "address": "201:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902350_B_02F_AHU4_VAV4"
+            },
+            "address": "201:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902351_B_02F_AHU4_VAV5"
+            },
+            "address": "201:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902352_B_02F_AHU4_VAV6"
+            },
+            "address": "201:15",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902353_B_02F_AHU4_VAV7"
+            },
+            "address": "201:16",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902354_B_03F_AHU1_VAV1"
+            },
+            "address": "207:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902355_B_03F_AHU1_VAV2"
+            },
+            "address": "207:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902356_B_03F_AHU1_VAV3"
+            },
+            "address": "207:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902357_B_03F_AHU1_VAV4"
+            },
+            "address": "207:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902358_B_03F_AHU1_VAV5"
+            },
+            "address": "207:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902359_B_03F_AHU2_VAV1"
+            },
+            "address": "207:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902360_B_03F_AHU2_VAV2"
+            },
+            "address": "207:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902361_B_03F_AHU2_VAV3"
+            },
+            "address": "207:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902362_B_03F_AHU2_VAV4"
+            },
+            "address": "207:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902363_B_03F_AHU2_VAV5"
+            },
+            "address": "207:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902364_B_03F_AHU2_VAV6"
+            },
+            "address": "207:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902365_B_03F_AHU3_VAV1"
+            },
+            "address": "210:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902366_B_03F_AHU3_VAV2"
+            },
+            "address": "210:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902367_B_03F_AHU3_VAV3"
+            },
+            "address": "210:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902368_B_03F_AHU3_VAV4"
+            },
+            "address": "210:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902369_B_03F_AHU3_VAV5"
+            },
+            "address": "210:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902370_B_03F_AHU4_VAV1"
+            },
+            "address": "210:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902371_B_03F_AHU4_VAV2"
+            },
+            "address": "210:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902372_B_03F_AHU4_VAV3"
+            },
+            "address": "210:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902373_B_03F_AHU4_VAV4"
+            },
+            "address": "210:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902374_B_03F_AHU4_VAV5"
+            },
+            "address": "210:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902375_B_03F_AHU4_VAV6"
+            },
+            "address": "210:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902376_B_03F_AHU5_VAV1"
+            },
+            "address": "207:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902377_B_03F_AHU5_VAV2"
+            },
+            "address": "207:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902378_B_03F_AHU5_VAV3"
+            },
+            "address": "207:15",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902379_B_03F_AHU5_VAV4"
+            },
+            "address": "207:16",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902380_B_03F_AHU5_VAV5"
+            },
+            "address": "207:17",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902381_B_03F_AHU5_VAV6"
+            },
+            "address": "207:18",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902382_B_03F_AHU5_VAV7"
+            },
+            "address": "207:19",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902383_B_03F_AHU5_VAV8"
+            },
+            "address": "207:20",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902384_B_03F_AHU6_VAV1"
+            },
+            "address": "210:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902385_B_03F_AHU6_VAV2"
+            },
+            "address": "210:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902386_B_03F_AHU6_VAV3"
+            },
+            "address": "210:15",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902387_B_03F_AHU6_VAV4"
+            },
+            "address": "210:16",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902388_B_03F_AHU6_VAV5"
+            },
+            "address": "210:17",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902389_B_03F_AHU6_VAV6"
+            },
+            "address": "210:18",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902390_B_03F_AHU6_VAV7"
+            },
+            "address": "210:19",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902391_B_05F_AHU1_VAV1"
+            },
+            "address": "213:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902392_B_05F_AHU1_VAV2"
+            },
+            "address": "213:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902393_B_05F_AHU1_VAV3"
+            },
+            "address": "213:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902394_B_05F_AHU1_VAV4"
+            },
+            "address": "213:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902395_B_05F_AHU1_VAV5"
+            },
+            "address": "213:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902396_B_05F_AHU2_VAV1"
+            },
+            "address": "213:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902397_B_05F_AHU2_VAV2"
+            },
+            "address": "213:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902398_B_05F_AHU2_VAV3"
+            },
+            "address": "213:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902399_B_05F_AHU2_VAV4"
+            },
+            "address": "213:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902400_B_05F_AHU2_VAV5"
+            },
+            "address": "213:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902401_B_05F_AHU2_VAV6"
+            },
+            "address": "213:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902402_B_05F_AHU3_VAV1"
+            },
+            "address": "216:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902403_B_05F_AHU3_VAV2"
+            },
+            "address": "216:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902404_B_05F_AHU3_VAV3"
+            },
+            "address": "216:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902405_B_05F_AHU3_VAV4"
+            },
+            "address": "216:4",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902406_B_05F_AHU3_VAV5"
+            },
+            "address": "216:5",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902407_B_05F_AHU4_VAV1"
+            },
+            "address": "216:7",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902408_B_05F_AHU4_VAV2"
+            },
+            "address": "216:8",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902409_B_05F_AHU4_VAV3"
+            },
+            "address": "216:9",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902410_B_05F_AHU4_VAV4"
+            },
+            "address": "216:10",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902411_B_05F_AHU4_VAV5"
+            },
+            "address": "216:11",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902412_B_05F_AHU4_VAV6"
+            },
+            "address": "216:12",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902413_B_05F_AHU5_VAV1"
+            },
+            "address": "213:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902414_B_05F_AHU5_VAV2"
+            },
+            "address": "213:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902415_B_05F_AHU5_VAV3"
+            },
+            "address": "213:15",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902416_B_05F_AHU5_VAV4"
+            },
+            "address": "213:16",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902417_B_05F_AHU5_VAV5"
+            },
+            "address": "213:17",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902418_B_05F_AHU5_VAV6"
+            },
+            "address": "213:18",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902419_B_05F_AHU5_VAV7"
+            },
+            "address": "213:19",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902420_B_05F_AHU5_VAV8"
+            },
+            "address": "213:20",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902421_B_05F_AHU6_VAV1"
+            },
+            "address": "216:13",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902422_B_05F_AHU6_VAV2"
+            },
+            "address": "216:14",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902423_B_05F_AHU6_VAV3"
+            },
+            "address": "216:15",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902424_B_05F_AHU6_VAV4"
+            },
+            "address": "216:16",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902425_B_05F_AHU6_VAV5"
+            },
+            "address": "216:17",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902426_B_05F_AHU6_VAV6"
+            },
+            "address": "216:18",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902427_B_05F_AHU6_VAV7"
+            },
+            "address": "216:19",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902428_B_06F_AHU1_VAV1"
+            },
+            "address": "219:1",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902429_B_06F_AHU1_VAV2"
+            },
+            "address": "219:2",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902430_B_06F_AHU1_VAV3"
+            },
+            "address": "219:3",
+            "pollPeriod": 120000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        }
+    ]
+}

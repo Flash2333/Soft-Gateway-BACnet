@@ -1,0 +1,30 @@
+{
+    "id": "9fc7d12-f5cf-4e558-899x-e193fc903013",
+    "application": {
+        "objectName": "bacnet_device_list",
+        "address": "192.168.0.241/24",
+        "objectIdentifier": 599,
+        "maxApduLengthAccepted": 1476,
+        "segmentationSupported": "segmentedBoth",
+        "vendorIdentifier": 15,
+        "devicesDiscoverPeriodSeconds": 60,
+        "deviceDiscoveryTimeoutInSec": 10
+    },
+    "devices": [
+         {
+            "deviceInfo": {
+                "deviceNameExpression": "TEST_A_AHU_06F_1_VAV5"
+            },
+            "address": "101:16",
+            "pollPeriod": 30000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "Temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }]
+        }
+    ]
+}

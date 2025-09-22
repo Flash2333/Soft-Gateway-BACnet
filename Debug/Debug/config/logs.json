@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "LogFormatter": {
+      "class": "logging.Formatter",
+      "format": "%(asctime)s - |%(levelname)s| - [%(filename)s] - %(module)s - %(funcName)s - %(lineno)d - %(message)s",
+      "datefmt": "%Y-%m-%d %H:%M:%S"
+    }
+  },
+  "handlers": {
+    "consoleHandler": {
+      "class": "logging.StreamHandler",
+      "formatter": "LogFormatter",
+      "level": 0,
+      "stream": "ext://sys.stdout"
+    },
+    "databaseHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/database.log",
+      "backupCount": 1,
+      "encoding": "utf-8"
+    },
+    "serviceHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/service.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    },
+    "connectorHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/connector.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    },
+    "converterHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/converter.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    },
+    "tb_connectionHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/tb_connection.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    },
+    "storageHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/storage.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    },
+    "extensionHandler": {
+      "class": "tb_utility.tb_handler.TimedRotatingFileHandler",
+      "formatter": "LogFormatter",
+      "filename": "./logs/extension.log",
+      "backupCount": 7,
+      "interval": 3,
+      "when": "D",
+      "encoding": "utf-8"
+    }
+  },
+  "loggers": {
+    "database": {
+      "handlers": [
+        "databaseHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "service": {
+      "handlers": [
+        "serviceHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "connector": {
+      "handlers": [
+        "connectorHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "converter": {
+      "handlers": [
+        "converterHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "tb_connection": {
+      "handlers": [
+        "tb_connectionHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "storage": {
+      "handlers": [
+        "storageHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    },
+    "extension": {
+      "handlers": [
+        "extensionHandler",
+        "consoleHandler"
+      ],
+      "level": "DEBUG",
+      "propagate": false
+    }
+  },
+  "root": {
+    "level": "ERROR",
+    "handlers": [
+      "consoleHandler"
+    ]
+  }
+}

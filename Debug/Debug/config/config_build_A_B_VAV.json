@@ -1,0 +1,50 @@
+{
+    "id": "9fc7d12-f5cf-4e528-899x-e193fc903095",
+    "application": {
+        "objectName": "vav_bacnet_device_list",
+        "address": "192.168.0.242/24",
+        "objectIdentifier": 699,
+        "maxApduLengthAccepted": 1476,
+        "segmentationSupported": "segmentedBoth",
+        "vendorIdentifier": 15,
+        "deviceDiscoveryTimeoutInSec": 5
+    },
+    "devices": [
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902001_A_03F_AHU1_VAV1"
+            },
+            "address": "101:1",
+            "pollPeriod": 30000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        },
+        {
+            "deviceInfo": {
+                "deviceNameExpression": "sun21971902645_B_11F_AHU5_VAV8"
+            },
+            "address": "249:20",
+            "pollPeriod": 30000,
+            "attributes": [],
+            "timeseries": [
+                {
+                    "key": "temperature",
+                    "objectType": "analogInput",
+                    "objectId": 4,
+                    "propertyId": "presentValue"
+                }
+            ],
+            "attributeUpdates": [],
+            "serverSideRpc": []
+        }
+    ]
+}

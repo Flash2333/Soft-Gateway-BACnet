@@ -1,0 +1,58 @@
+{
+  "master": {
+    "slaves": [
+      {
+        "host": "192.168.6.88",
+        "port": 502,
+        "type": "tcp",
+        "method": "socket",
+        "timeout": 35,
+        "byteOrder": "BIG",
+        "wordOrder": "BIG",
+        "retries": true,
+        "retryOnEmpty": true,
+        "retryOnInvalid": true,
+        "pollPeriod": 5000,
+        "unitId": 1,
+        "deviceName": "Temp Sensor",
+        "sendDataOnlyOnChange": false,
+        "connectAttemptTimeMs": 5000,
+        "connectAttemptCount": 5,
+        "waitAfterFailedAttemptsMs": 300000,
+        "attributes": [
+          {
+            "tag": "zero-point",
+            "type": "16int",
+            "functionCode": 4,
+            "address": 0,
+            "objectsCount": 1,
+            "multiplier": 0.1
+          },
+          {
+            "tag": "humidity",
+            "type": "16int",
+            "functionCode": 3,
+            "address": 38,
+            "objectsCount": 1
+          }
+        ],
+        "timeseries": [
+          {
+            "tag": "humidity_ts",
+            "type": "16int",
+            "functionCode": 3,
+            "address": 38,
+            "objectsCount": 1
+          }
+        ],
+        "attributeUpdates": [
+
+        ],
+        "rpc": [
+
+        ]
+      }
+    ]
+  },
+  "id": "93ca5c2e-be59-45cb-8074-355a5d7af6e7"
+}
